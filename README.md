@@ -89,6 +89,7 @@ snake/
 | Nom | Rôle | Contact |
 |---|---|---|
 | Alexis Dulac | Développeur | [CALUD-Alexis](https://github.com/CALUD-Alexis) |
+| Monir Shadkani | Développeuse | [monirshadkani](https://github.com/monirshadkani) |
 
 ---
 
